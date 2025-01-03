@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Examify.WebApi.props" />
+</Project>

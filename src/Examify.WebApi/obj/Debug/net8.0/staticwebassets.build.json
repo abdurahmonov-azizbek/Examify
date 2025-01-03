@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hMHXrrOR8wq39bGjqpl+HNGeowk6k9kP0awO0+tEsQ0=",
+  "Source": "Examify.WebApi",
+  "BasePath": "_content/Examify.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
